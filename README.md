@@ -1,12 +1,9 @@
 
-
-
-
-# Papers
-## Overview
+**Overview**
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
-## Theory & Machine Learning
+**Theory & Machine Learning**
+
 - A Classification-Based Perspective on GAN Distributions [[arXiv]](https://arxiv.org/abs/1711.00970)
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
@@ -108,7 +105,8 @@
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code]](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan)
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN) [[Code]](https://github.com/wiseodd/generative-models)
 
-## Applied Vision
+**Applied Vision**
+
 - 3D Object Reconstruction from a Single Depth View with Adversarial Learning [[arXiv]](https://arxiv.org/abs/1708.07969)
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
 - A step towards procedural terrain generation with GANs [[arXiv]](https://arxiv.org/abs/1707.03383) [[Code]](https://github.com/christopher-beckham/gan-heightmaps)
@@ -255,7 +253,8 @@
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 
-## Applied Other
+**Applied Other**
+
 - Adversarial Generation of Natural Language [[arXiv]](https://arxiv.org/abs/1705.10929)
 - Adversarial Ranking for Language Generation [[arXiv]](https://arxiv.org/abs/1705.11001)
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
