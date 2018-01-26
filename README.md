@@ -286,10 +286,6 @@
 - Steganographic Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1703.05502)
 - Towards Grounding Conceptual Spaces in Neural Representations [[arXiv]](https://arxiv.org/abs/1706.04825)
 
----------
 
-### References
-
-- [GANotebooks](https://github.com/tjwei/GANotebooks)
 
 ------------
