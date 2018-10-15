@@ -4,6 +4,9 @@
 
 #### Different Versions GANs
 
+
+[I have listed below GANs based on their [timelines](https://github.com/dongb5/GAN-Timeline), since from GANs inception]
+
   - [DCGANs]
   - [cGANs]
   - [InfoGANs]
@@ -66,18 +69,18 @@ More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 ----------------
 
-##### GAN Comparisions
+##### GANs Comparision
 
 ![gan_comparsion](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_comparsion.PNG)
 
 ------------
 
-##### GAN Surveys for Vision
+##### GANs Survey for Vision
 
 ![gan_image_1](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_3.PNG)
 
 
-![gan_image_2](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_2.PNG)
+![gan_image_2](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_4.PNG)
 
 ---------
 ##### Some GAN Architectures
@@ -97,6 +100,13 @@ Interactive Visual Experimentation](https://arxiv.org/pdf/1809.01587v1.pdf)
 - [A Survey of Image Synthesis and Editing with Generative Adversarial
 Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [OpenAI: Generative Models](https://blog.openai.com/generative-models/)
+
+-----------
+
+- [GAN-theory-and-ml](https://github.com/gopala-kr/GANs/blob/master/GAN-theory-and-ml.md)
+- [GAN-ref-implementations](https://github.com/gopala-kr/GANs/blob/master/GAN-ref-implementations.md)
+- [GAN-applications](https://github.com/gopala-kr/GANs/blob/master/GAN-applications.md)
+- [GANs for vision](https://github.com/gopala-kr/GANs/blob/master/GAN-vision.md)
 
 ------------
 
