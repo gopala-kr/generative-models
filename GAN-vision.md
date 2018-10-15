@@ -1,4 +1,4 @@
-**Applied Vision**
+**GANs Applied Vision**
 
 - 3D Object Reconstruction from a Single Depth View with Adversarial Learning [[arXiv]](https://arxiv.org/abs/1708.07969)
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
@@ -146,3 +146,4 @@
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 
+--------------------
