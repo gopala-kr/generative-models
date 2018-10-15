@@ -1,11 +1,24 @@
 
+#### [Three approaches to generative models](https://blog.openai.com/generative-models/)
+
+- [Generative Adversarial Networks (GANs)]
+  - [Different Versions GANs](#different-version-gans)
+  - [GANs Comparision](#gans-comparision)
+  - [GANs Survey for Vision](#gans-survey-for-vision)
+  - [Some GAN Architectures](#some-gan-architectures)
+  - [References](#references)
+  - [Paper Review](#paper-review)
+- [Variational Autoencoders (VAEs)]
+  - [Autoencoders](https://github.com/gopala-kr/autoencoders)
+- [Autoregressive models]
+  - [EX: PixelRNN]
 
 -----------
 
 #### Different Versions GANs
 
 
-[I have listed below GANs based on their [timelines](https://github.com/dongb5/GAN-Timeline), since from GANs inception]
+(I have listed below GANs based on their [timelines](https://github.com/dongb5/GAN-Timeline), since from GANs inception)
 
   - [DCGANs]
   - [cGANs]
@@ -102,6 +115,7 @@ Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [OpenAI: Generative Models](https://blog.openai.com/generative-models/)
 
 -----------
+#### Paper Review
 
 - [GAN-theory-and-ml](https://github.com/gopala-kr/GANs/blob/master/GAN-theory-and-ml.md)
 - [GAN-ref-implementations](https://github.com/gopala-kr/GANs/blob/master/GAN-ref-implementations.md)
