@@ -5,7 +5,8 @@
   - [Different Versions of GANs](#different-versions-of-gans)
   - [GANs Comparision](#gans-comparision)
   - [GANs Survey for Vision](#gans-survey-for-vision)
-  - [Some GAN Architectures](#some-gan-architectures)
+  - [Variants of GAN Architecture](#variants-of-gan-architecture)
+  - [GAN Value Functions](#gan-value-functions)
   - [References](#references)
   - [Paper Review](#paper-review)
 - [Variational Autoencoders (VAEs)]
@@ -104,21 +105,22 @@ More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 ![gan_image_2](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_4.PNG)
 
 ---------
-##### Some GAN Architectures
+##### Variants of GAN Architecture
 
 [Back to top](#three-approaches-to-generative-models)
 
-![Computation](https://www.researchgate.net/profile/Kunfeng_Wang/publication/319869547/figure/fig3/AS:660911190716417@1534584915656/Computation-procedures-and-structures-of-some-GAN-variants-a-GAN-1-WGAN-31.png)
-
-------
-
-#### Variants of GAN structure
 
 <img src = 'https://github.com/hwalsuklee/tensorflow-generative-model-collections/blob/master/assets/etc/GAN_structure.png' height = '600px'>
 
 ---------------
 
-#### GAN Value Function
+![Computation](https://www.researchgate.net/profile/Kunfeng_Wang/publication/319869547/figure/fig3/AS:660911190716417@1534584915656/Computation-procedures-and-structures-of-some-GAN-variants-a-GAN-1-WGAN-31.png)
+
+------
+
+
+
+#### GAN Value Functions
 
 *Name* | *Paper Link* | *Value Function*
 :---: | :---: | :--- |
