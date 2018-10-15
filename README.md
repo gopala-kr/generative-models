@@ -72,7 +72,6 @@ More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 ![gan_image_1](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_1.PNG)
 
------------
 
 ![gan_image_2](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_2.PNG)
 
