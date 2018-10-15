@@ -2,8 +2,7 @@
 
 -----------
 
-### Different Versions GANs
-
+#### Different Versions GANs
 
   - [DCGANs]
   - [cGANs]
@@ -66,23 +65,29 @@
 More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 ----------------
+
+##### GAN Comparisions
+
 ![gan_comparsion](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_comparsion.PNG)
 
 ------------
 
-![gan_image_1](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_1.PNG)
+##### GAN Surveys for Vision
+
+![gan_image_1](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_3.PNG)
 
 
 ![gan_image_2](https://github.com/gopala-kr/GANs/blob/master/res/img/gan_image_2.PNG)
 
 ---------
+##### Some GAN Architectures
 
 ![Computation](https://www.researchgate.net/profile/Kunfeng_Wang/publication/319869547/figure/fig3/AS:660911190716417@1534584915656/Computation-procedures-and-structures-of-some-GAN-variants-a-GAN-1-WGAN-31.png)
 
 ---------------
 
 
-### Reference
+#### References
 
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 - [Survey on Generative Adversarial Networks](https://pdfs.semanticscholar.org/0e1b/15ee5b4eec9b19eae9ae973a2ddc64f6cc72.pdf)
