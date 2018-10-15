@@ -1,3 +1,9 @@
+---------
+
+- [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
+
+----
+
 <h2 id="gan-use-cases">GAN Use Cases</h2>
 <ul>
 <li><a href="https://arxiv.org/abs/1605.05396">Text to Image Generation</a></li>
