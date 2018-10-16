@@ -23,7 +23,7 @@
 
 [Back to top](#three-approaches-to-generative-models)
 
-(I have listed below GANs based on their [timelines](https://github.com/dongb5/GAN-Timeline), since from GANs inception)
+(I have listed below GANs based on their [timelines](https://github.com/dongb5/GAN-Timeline), since from GANs inception(Jun 2014))
 
   - [DCGANs]
   - [cGANs]
