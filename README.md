@@ -122,6 +122,9 @@ More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 #### GAN Value Functions
 
+[Back to top](#three-approaches-to-generative-models)
+
+
 *Name* | *Paper Link* | *Value Function*
 :---: | :---: | :--- |
 **GAN** | [Arxiv](https://arxiv.org/abs/1406.2661) | <img src = 'https://github.com/hwalsuklee/tensorflow-generative-model-collections/blob/master/assets/equations/GAN.png' height = '70px'>
