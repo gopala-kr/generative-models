@@ -153,6 +153,7 @@ Interactive Visual Experimentation](https://arxiv.org/pdf/1809.01587v1.pdf)
 - [A Survey of Image Synthesis and Editing with Generative Adversarial
 Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [OpenAI: Generative Models](https://blog.openai.com/generative-models/)
+- [Generative models](https://storage.googleapis.com/ml4a.github.io/Slides_06/assets/player/KeynoteDHTMLPlayer.html#0)
 
 -----------
 #### Paper Review
