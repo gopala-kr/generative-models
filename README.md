@@ -146,6 +146,8 @@ More GANs -->  [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 [Back to top](#three-approaches-to-generative-models)
 
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
+- [NIPS 2016 Tutorial:
+Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf)
 - [Survey on Generative Adversarial Networks](https://pdfs.semanticscholar.org/0e1b/15ee5b4eec9b19eae9ae973a2ddc64f6cc72.pdf)
 - [Comparative Study on Generative Adversarial Networks](https://arxiv.org/pdf/1801.04271.pdf)
 - [GAN Lab: Understanding Complex Deep Generative Models using
