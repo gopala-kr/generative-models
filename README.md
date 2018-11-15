@@ -158,6 +158,7 @@ Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [Generative models](https://storage.googleapis.com/ml4a.github.io/Slides_06/assets/player/KeynoteDHTMLPlayer.html#0)
 - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 - [Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances](https://arxiv.org/abs/1806.03577v1)
+- [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720v1)
 
 -----------
 #### Paper Review
