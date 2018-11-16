@@ -159,6 +159,8 @@ Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf)
 - [Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances](https://arxiv.org/abs/1806.03577v1)
 - [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720v1)
+- [A Tale of Three Probabilistic Families: Discriminative, Descriptive
+and Generative Models](https://arxiv.org/pdf/1810.04261v1.pdf)
 
 -----------
 #### Paper Review
