@@ -161,7 +161,7 @@ Networks](https://cg.cs.tsinghua.edu.cn/people/~kun/papers/gan_survey_final.pdf)
 - [The GAN Landscape: Losses, Architectures, Regularization, and Normalization](https://arxiv.org/abs/1807.04720v1)
 - [A Tale of Three Probabilistic Families: Discriminative, Descriptive
 and Generative Models](https://arxiv.org/pdf/1810.04261v1.pdf)
-
+- [QGAN: Quantized Generative Adversarial Networks](https://arxiv.org/abs/1901.08263v1)
 
 -----------
 #### Paper Review
