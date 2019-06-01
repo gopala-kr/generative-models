@@ -101,6 +101,25 @@
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code]](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan)
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN) [[Code]](https://github.com/wiseodd/generative-models)
 
+--------------------
 
+2019
+
+- [On Self Modulation for Generative Adversarial Networks](https://arxiv.org/abs/1810.01365v2)
+- [Neuroscore: A Brain-inspired Evaluation Metric for Generative Adversarial Networks](https://arxiv.org/abs/1905.04243v1)
+- [Biosignal Generation and Latent Variable Analysis with Recurrent Generative Adversarial Networks](https://arxiv.org/abs/1905.07136v1)
+- [Data-Driven Crowd Simulation with Generative Adversarial Networks](https://arxiv.org/abs/1905.09661v1)
+- [Generative Adversarial Networks for Mitigating Biases in Machine Learning Systems](https://arxiv.org/abs/1905.09972v1)
+- [Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data](https://arxiv.org/abs/1905.09684v1)
+- [CrystalGAN: Learning to Discover Crystallographic Structures with Generative Adversarial Networks](https://arxiv.org/abs/1810.11203v3)
+- [Spatial Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1905.12702v1)
+- [Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks]()
+- [GlyphGAN: Style-Consistent Font Generation Based on Generative Adversarial Networks](https://arxiv.org/abs/1905.12502v2)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 --------------
